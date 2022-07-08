@@ -231,7 +231,7 @@ namespace Sexy.TodLib
             {
                 return TodStringFile.gStringProperties[theName];
             }
-            return Common.StrFormat_("<Missing {0}>", theName);
+            throw new Exception(Common.StrFormat_("<Missing {0}>", theName));
         }
 
         internal static bool CharIsSpaceInFormat(char theChar, TodStringListFormat theCurrentFormat)
