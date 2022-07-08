@@ -258,7 +258,7 @@ namespace Lawn
                 new ReanimationParams(ReanimationType.LoadbarZombiehead, "reanim/LoadBar_Zombiehead", 1)
             };
             ReanimatorXnaHelpers.ReanimatorLoadDefinitions(ref array, array.Length);
-            TodStringFile.TodStringListLoad("Content/"+"LawnStrings_" + Constants.LanguageSubDir + ".txt");
+            TodStringFile.TodStringListLoad("LawnStrings_" + Constants.LanguageSubDir + ".txt");
             mTitleScreen.mLoaderScreenIsLoaded = true;
             mNumLoadingThreadTasks += mResourceManager.GetNumResources("LoadingFonts") * 54;
             mNumLoadingThreadTasks += mResourceManager.GetNumResources("LoadingImages") * 9;
@@ -1279,7 +1279,7 @@ namespace Lawn
             mKilledYetiAndRestarted = false;
             base.Init();
             ReadRestoreInfo();
-            if (!mResourceManager.ParseResourcesFile("Content/resources.xml"))
+            if (!mResourceManager.ParseResourcesFile("resources.xml"))
             {
                 ShowResourceError(true);
                 return;
