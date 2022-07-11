@@ -1,0 +1,84 @@
+Place the setup files and folders into the PvZ project directory.
+Then run the corresponding set up batch file for which platform you are compiling for (WindowsDX vs DesktopGL).
+Once that is done you will be able to compile and run the game with no issues.
+
+CHEATS BELOW:
+
+--------------------------------------------------
+
+General cheats:
+
+Pressing "<" pulls up the options menu with no other noticeable effects.
+Pressing "2" places a digger zombie.
+Pressing "l" lets you enter in the level number to warp to.
+Pressing "#" allows you to instantly defeat Dr. Zomboss and some zombie wave mode.
+Pressing "!" causes you to instantly win the level in all modes.
+Pressing "+" causes you to instantly win the level in all modes, except it seems more effective.
+Pressing "8" toggles the easy planting cheat.
+Pressing "7" toggles slow mode.
+Pressing "6" toggles fast mode.
+Pressing "z" causes the "A HUGE WAVE OF ZOMBIES IS APPROACHING" text to appear, but nothing else happens.
+Pressing "q" fills the entire play field with the most optimal type of plant (threepeaters, Flowerpot, lilypad) and spawns all remaining waves of zombies at once. In a scary potter level, it opens all pots immediately.
+Pressing "]" fills the entire play field with either peashooters, Flowerpot, lilypad and spawns all remaining waves of zombies at once. In a scary potter level, it also opens all pots immediately.
+Pressing "[" spawns the next wave of zombies at once. If no waves remain, the game crashes.
+Pressing "?" or "/" sets the Huge Wave CountDown to 1 (if it is greater than 1) and the Zombie CountDown to 6.
+Pressing "b" places a bungee zombie.
+Pressing "O" places a football zombie.
+Pressing "s" places a door zombie.
+Pressing "L" places a ladder zombie.
+Pressing "y" places a yeti zombie.
+Pressing "a" places a flag zombie.
+Pressing "w" places a newspaper zombie.
+Pressing "F" places a balloon zombie.
+Pressing "n" places a snorkel zombie if the stage has a pool, otherwise it does nothing.
+Pressing "c" places a traffic cone zombie.
+Pressing "m" places a dancer zombie.
+Pressing "*" instantly crashes the game. This is on purpose and intended behavior.
+Pressing " " (the space bar) pauses the game.
+Pressing "h" places a buckethead zombie.
+Pressing "H" places 5 buckethead zombies, presumably one on each row.
+Pressing "D" places a digger zombie.
+Pressing "p" places a PoleVaulter zombie.
+Pressing "P" places a Pogo zombie.
+Pressing "R" places a DolphinRider zombie if the stage has a pool, otherwise it does nothing.
+Pressing "j" places a JackInTheBox zombie.
+Pressing "g" places a Gargantuar zombie.
+Pressing "G" places a RedeyeGargantuar zombie.
+Pressing "i" places a Zamboni zombie.
+Pressing "C" places a Catapult zombie.
+Pressing "1" causes the plant at 0,0 (top left corner) to be instantly eaten by a zombie.
+Pressing "B" causes the FogBlownCountDown to be set to 2200.
+Pressing "t" places a Bobsled zombie. If a bobsled zombie can't be placed immediately, it places an ice track and then summons it.
+Pressing "r" spawns zombies from the sky if on the roof, from the pool if in a pool level, otherwise, spawns zombies from grave.
+Pressing "0" gives you 100 sun.
+Pressing "9" gives you 999999 sun (caps at 9990).
+Pressing "$" gives you 100 coins.
+Pressing "-" removes 100 sun.
+Pressing "%" does nothing, but has a specific check for that key.
+Pressing "M" removes all lawn mowers.
+
+Cheats in Dr. Zomboss's stage only:
+
+Pressing "b" turns the bungee counter to 0.
+Pressing "u" turns the summon counter to 0.
+Pressing "s" turns the boss stomp counter to 0.
+Pressing "r" triggers the RV attack.
+Pressing "h" sets the boss head counter to 0.
+Pressing "d" deals Dr. Zomboss 10,000 damage.
+
+Cheats in Challenge "War And Peas" 1 and 2:
+
+Pressing "w" spawns a WallnutHead type zombie.
+Pressing "t" spawns a TallnutHead type zombie.
+Pressing "g" spawns a GatlingHead type zombie.
+Pressing "s" spawns a SquashHead type zombie.
+
+Cheats in Survival Endless:
+
+Pressing "q" turns on Easy Planting Cheat. Either fills the entire board with plants or places a specific kind of plant.
+
+Cheats in "I, Zombie":
+
+Pressing "q" turns on Easy Planting Cheat. Either fills the entire board with zombies or fills the entire board with football zombies.
+
+
